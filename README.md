@@ -1,7 +1,3 @@
-<h1><em>Hello there!</em></h1> 👋 
-
-I'm Joe Gilmour, a passionate learner who is diving into the world of coding. Currently, my focus is on HTML, CSS, and JavaScript. I'm excited to share my journey as I explore and grow in this fascinating field.
-
 <h2>About Me:</h2>
 <br>
 💻 Aspiring Develope
